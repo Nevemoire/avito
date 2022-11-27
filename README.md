@@ -1,7 +1,5 @@
 ## Installation
 
-Скачать файлы.
-
 ```bash
 git clone https://github.com/Nevemoire/avito
 ```
